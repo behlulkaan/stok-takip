@@ -1,0 +1,52 @@
+body{
+	background:#c8c5cf;
+}
+.main{
+	width: 100%;
+	height: auto;
+	padding: 25px 100px 0px 100px;
+}
+.urun_tanimla_div{
+	padding: 15px 50px 50px 50px;
+	width: 500px;	
+}
+.aktif{
+	font-weight: bold!important;
+	border:1px dashed gray;
+	border-radius: 5px
+}
+.urun_urun-duzenle-inputlar{
+	display: none;
+}
+#urun_urunler-liste input{
+	width: auto;
+	border:1px solid #ced4da;
+	border-radius: 4px;
+	padding: 7px
+}
+#urun_urunler-liste textarea{
+	width: auto;
+	border:1px solid #ced4da;
+	border-radius: 4px;
+	padding: 7px;
+	height: 37px!important;
+}
+#urun_urunler-liste button{
+	height: 37px!important;
+}
+.kategori-duzenle-input{
+	display: none;
+	padding:5px;
+	border:1px solid #ced4da;
+	border-radius: 4px;
+	width: auto;
+
+}
+.marka-duzenle-input{
+	display: none;
+	padding:5px;
+	border:1px solid #ced4da;
+	border-radius: 4px;
+	width: auto;
+
+}
